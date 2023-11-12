@@ -1,7 +1,3 @@
-import React from "react";
-
-function Invoices() {
+export default function Page() {
   return <p>Invoices page</p>;
 }
-
-export default Invoices;
